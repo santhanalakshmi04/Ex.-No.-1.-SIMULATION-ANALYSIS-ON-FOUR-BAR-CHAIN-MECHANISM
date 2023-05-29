@@ -54,6 +54,7 @@
 
 ## Output
 
+![Screenshot 2023-05-22 183810 (3)](https://github.com/santhanalakshmi04/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119475762/9b140bb4-6d7e-4759-9278-ab022638feae)
 
 
 ### Name: K.SANTHANA LAKSHMI
